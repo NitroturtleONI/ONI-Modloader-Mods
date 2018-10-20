@@ -159,6 +159,12 @@
     },
     "Brightness": 0.9
   },
+  "MaficRock": {
+    "ColorMultiplier": {
+      "Red": 0.55,
+      "Green": 0.25,
+      "Blue": 0.25
+  },
   "Obsidian": {
     "ColorMultiplier": {
       "Red": 0.85,
